@@ -3,9 +3,14 @@
 Minimalistic implementation for Computer Networks university course.
 
 ## Installation
-```make```
+```
+make
+```
 
 ## Usage
 
 Due to raw sockets usage there is need for superuser privileges.
-```# ./traceroute <ip address>```
+
+```
+./traceroute <ip_address>
+```
